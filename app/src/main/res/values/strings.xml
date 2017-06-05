@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">IdentifyUser</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="nickName">Nick Name</string>
+    <string name="password">Password</string>
+    <string name="countryandstate">Country and State</string>
+    <string name="city">City</string>
+    <string name="displayCountry">Display Country</string>
+    <string name="year">Year</string>
+    <string name="LandL"><![CDATA[Langitude & Latitude]]></string>
+    <string name="set2">Set</string>
+    <string name="set1">Set</string>
+    <string name="submit">Submit</string>
+    <string name="title_activity_countryand_state">CountryandState</string>
+    <string name="countrycancel">Cancel</string>
+    <string name="countrydone">Done</string>
+    <string name="countryCancel">cancel</string>
+    <string name="displayState">Display State</string>
+    <string name="mapback">Back</string>
+    <string name="mapdone">Done</string>
+    <string name="listviewdone">Serach</string>
+    <string name="mode">Choose the filters below and press search</string>
+    <string name="listback">Back</string>
+    <string name="listnext">Next</string>
+    <string name="search">Search</string>
+</resources>
