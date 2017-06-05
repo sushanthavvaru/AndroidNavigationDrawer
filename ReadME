@@ -1,0 +1,8 @@
+Created by SUSHANTH AVVARU
+
+Application is develpoed using Naviagation Drawer Activity.
+User can add his/her information to the Bismarck server.
+User can see list of other viewers using list view and map view.
+Information in list view and map view is populated using the data from the Bismarck server. 
+Volley is used to access the data from the server.
+Async Task is used to find out the Geological Cordinates if they are not present and to display on map.
